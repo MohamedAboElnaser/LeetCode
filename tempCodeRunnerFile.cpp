@@ -1,2 +1,2 @@
 
-    Solution s;
+            int siz=t.length();
