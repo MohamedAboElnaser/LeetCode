@@ -1,2 +1,2 @@
 
-            int siz=t.length();
+                break;
