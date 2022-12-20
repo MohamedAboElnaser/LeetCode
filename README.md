@@ -4,7 +4,7 @@
  
 |Problem                      | Solution|
 | :-----------:               | :--------: |
-|[20.Valid Parentheses]("https://leetcode.com/problems/valid-parentheses/")| [code](/source/_20_valid_parentheses.cpp)
+|[20.Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [code](/source/_20_valid_parentheses.cpp)
 |[231.Power of two](https://leetcode.com/problems/power-of-two/)| [code](/source/_231_power_of_two.cpp)|
 |[239.Sliding Window Maximun](https://leetcode.com/problems/sliding-windo-maximum/)| [code](/source/_239_sliding_window_maximum.cpp)|
 |[369.Valid Perfect Square](https://leetcode.com/problems/valid-perfect-squar/)| [code](/source/_367_Valid_perfect_squar.cpp)|
