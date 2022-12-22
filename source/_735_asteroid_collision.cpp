@@ -34,7 +34,7 @@ public:
     }
 };
 int main(){
-    vector <int> a{1, 0, -1, 1};
+    vector <int> a{-5,10,3,-2,1};
     Solution s;
     vector <int>an=s.asteroidCollision(a);
     for(auto i: an)cout<<i<<" ";
