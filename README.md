@@ -33,7 +33,7 @@
 |[2413.Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)| [code](/source/smallest_even_multiple.cpp)|
 |[1.Two Sum](https://leetcode.com/problems/two-sum/)| [code](/source/tow_sum.cpp)|
 |[1480.Running Sum of 1D array](https://leetcode.com/problems/running-sum-of-1d-array)| [code](/source/_1480_Runing_sum_of_oneD_array.cpp)|
-|[1089.Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)| [code](/source/_1089_duplicate_zeros.cpp.cpp)|
+|[1089.Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)| [code](/source/_1089_duplicate_zeros.cpp)|
 
 
 ## My Leetcode [Account](https://leetcode.com/Mohamed_AboElNasr/)
