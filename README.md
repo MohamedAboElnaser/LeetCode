@@ -3,7 +3,7 @@
 
  
 |Problem                      | Solution|
-| :-----------:               | :--------: |
+| :-----------:               | :--------: | 
 |[20.Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [code](/source/_20_valid_parentheses.cpp)
 |[231.Power of two](https://leetcode.com/problems/power-of-two/)| [code](/source/_231_power_of_two.cpp)|
 |[239.Sliding Window Maximun](https://leetcode.com/problems/sliding-windo-maximum/)| [code](/source/_239_sliding_window_maximum.cpp)|
@@ -33,6 +33,7 @@
 |[2413.Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)| [code](/source/smallest_even_multiple.cpp)|
 |[1.Two Sum](https://leetcode.com/problems/two-sum/)| [code](/source/tow_sum.cpp)|
 |[1480.Running Sum of 1D array](https://leetcode.com/problems/running-sum-of-1d-array)| [code](/source/_1480_Runing_sum_of_oneD_array.cpp)|
+|[1089.Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)| [code](/source/_1089_duplicate_zeros.cpp.cpp)|
 
 
 ## My Leetcode [Account](https://leetcode.com/Mohamed_AboElNasr/)
