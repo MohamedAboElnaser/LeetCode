@@ -35,6 +35,7 @@
 |[1480.Running Sum of 1D array](https://leetcode.com/problems/running-sum-of-1d-array)| [code](/source/_1480_Runing_sum_of_oneD_array.cpp)|
 |[1089.Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)| [code](/source/_1089_duplicate_zeros.cpp)|
 |[771.Jewels and Stons](https://leetcode.com/problems/jewels-and-stones/)| [code](/source/_771_jewels_and_stons.cpp)|
+|[1290.Convert Binary In a linked list To decimal](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)| [code](/source/_1290_Conver_binary_into_decimal.cpp)|
 
 
 ## My Leetcode [Account](https://leetcode.com/Mohamed_AboElNasr/)
