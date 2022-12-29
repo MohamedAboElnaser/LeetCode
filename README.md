@@ -37,6 +37,7 @@
 |[771.Jewels and Stons](https://leetcode.com/problems/jewels-and-stones/)| [code](/source/_771_jewels_and_stons.cpp)|
 |[1290.Convert Binary In a linked list To decimal](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)| [code](/source/_1290_Conver_binary_into_decimal.cpp)|
 |[21.Merge Two Sorted List](https://leetcode.com/problems/merge-two-sorted-lists/)| [code](/source/_21_Merge_Two_sorted_list.cpp)|
+|[387.First unique character in string](https://leetcode.com/problems/first-unique-character-in-a-string/)| [code](/source/_387_first_unique_character_in_string.cpp)|
 
 
 ## My Leetcode [Account](https://leetcode.com/Mohamed_AboElNasr/)
