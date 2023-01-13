@@ -42,7 +42,8 @@
 |[383.Ransom Note](https://leetcode.com/problems/ransom-note/)| [code](/source/_383_Ransom_note.cpp)|
 |[500.Keyboard Row](https://leetcode.com/problems/keyboard-row/)| [code](/source/_500_keyboard_row.cpp)|
 |[876.Middle of the linked list](https://leetcode.com/problems/middle-of-the-linked-list/)| [code](/source/_876_middle_of_the_linked_list.cpp)|
-|[292.Nim Game](https://leetcode.com/problems/nim-game/)| [code](/source/_292_nim_game.cpp)|
+|[292.Nim Game](https://leetcode.com/problems/nim-game/)| [code](/source/_292_nim_game.cpp)| 
+|[50.Power(x,n)](https://leetcode.com/problems/powx-n/)| [code](/source/_50_power_x_n.cpp)| 
 
 
 ## My Leetcode [Account](https://leetcode.com/Mohamed_AboElNasr/)
