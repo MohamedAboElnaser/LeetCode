@@ -45,6 +45,7 @@
 |[292.Nim Game](https://leetcode.com/problems/nim-game/)| [code](/source/_292_nim_game.cpp)| 
 |[50.Power(x,n)](https://leetcode.com/problems/powx-n/)| [code](/source/_50_power_x_n.cpp)| 
 |[856.score of parentheses](https://leetcode.com/problems/score-of-parentheses/)| [code](/source/_856_score_of_parentheses.cpp)| 
+|[1346.Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)| [code](/source/_1346_check_if_n_and_its_double_exist.cpp)| 
 
 
 ## My Leetcode [Account](https://leetcode.com/Mohamed_AboElNasr/)
