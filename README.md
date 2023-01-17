@@ -46,6 +46,8 @@
 |[50.Power(x,n)](https://leetcode.com/problems/powx-n/)| [code](/source/_50_power_x_n.cpp)| 
 |[856.score of parentheses](https://leetcode.com/problems/score-of-parentheses/)| [code](/source/_856_score_of_parentheses.cpp)| 
 |[1346.Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)| [code](/source/_1346_check_if_n_and_its_double_exist.cpp)| 
+|[1346.Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)| [code](/source/_1346_check_if_n_and_its_double_exist.cpp)| 
+|[520.Detect Capital](https://leetcode.com/problems/detect-capital)| [code](/source/_520_Detect_capital.cpp)| 
 
 
 ## My Leetcode [Account](https://leetcode.com/Mohamed_AboElNasr/)
