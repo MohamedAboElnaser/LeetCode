@@ -49,6 +49,7 @@
 |[1346.Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)| [code](/source/_1346_check_if_n_and_its_double_exist.cpp)| 
 |[520.Detect Capital](https://leetcode.com/problems/detect-capital)| [code](/source/_520_Detect_capital.cpp)| 
 |[74.Search 2D matrix](https://leetcode.com/problems/search-a-2d-matrix/)| [code](/source/_74_search_a_2D_matrix.cpp)| 
+|[1636.sorting array by increasing frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)| [code](/source/_1636_sorting_array_by_increasing_freq.cpp)| 
 
 
 ## My Leetcode [Account](https://leetcode.com/Mohamed_AboElNasr/)
