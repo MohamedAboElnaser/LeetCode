@@ -52,7 +52,8 @@
 |[1636.sorting array by increasing frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)| [code](/source/_1636_sorting_array_by_increasing_freq.cpp)| 
 |[94.Binary Tree inorder traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [code](/source/_94_binary_tree_inorder_traversal.cpp)| 
 |[104.Maximum Depth Of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [code](/source/_104_maximum_Depth_of_binary_tree.cpp)| 
-|[441.Arranging coins]([eetcode.com/problems/arranging-coins/](https://leetcode.com/problems/arranging-coins/))| [code](/source/_441_Arranging_coins.cpp)| 
+|[441.Arranging coins](https://leetcode.com/problems/arranging-coins/)| [code](/source/_441_Arranging_coins.cpp)| 
+|[2396.Strictly palandiromic number](https://leetcode.com/problems/strictly-palindromic-number/)| [code](/source/_2396_Strictly_palandiromic_number.cpp)| 
 
 
 ## My Leetcode [Account](https://leetcode.com/Mohamed_AboElNasr/)
