@@ -54,6 +54,7 @@
 |[104.Maximum Depth Of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [code](/source/_104_maximum_Depth_of_binary_tree.cpp)| 
 |[441.Arranging coins](https://leetcode.com/problems/arranging-coins/)| [code](/source/_441_Arranging_coins.cpp)| 
 |[2396.Strictly palandiromic number](https://leetcode.com/problems/strictly-palindromic-number/)| [code](/source/_2396_Strictly_palandiromic_number.cpp)| 
+|[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [code](/source/_283_Move_Zeroes.cpp)| 
 
 
 ## My Leetcode [Account](https://leetcode.com/Mohamed_AboElNasr/)
