@@ -55,6 +55,7 @@
 |[441.Arranging coins](https://leetcode.com/problems/arranging-coins/)| [code](/source/_441_Arranging_coins.cpp)| 
 |[2396.Strictly palandiromic number](https://leetcode.com/problems/strictly-palindromic-number/)| [code](/source/_2396_Strictly_palandiromic_number.cpp)| 
 |[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [code](/source/_283_Move_Zeroes.cpp)| 
+|[229.Majority Element II](https://leetcode.com/problems/majority-element-ii/)| [code](/source/_229_Majority_element.cpp)| 
 
 
 ## My Leetcode [Account](https://leetcode.com/Mohamed_AboElNasr/)
