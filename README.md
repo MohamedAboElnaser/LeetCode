@@ -64,6 +64,7 @@
 |[107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| [code](/source/_107_Binary_tree_level_order_traversal_II.cpp)| 
 |[100.Same Tree](https://leetcode.com/problems/same-tree/)| [code](/source/_100_same_tree.cpp)| 
 |[101.Symmetirc Tree](https://leetcode.com/problems/symmetric-tree/)| [code](/source/_101_Symmetric_tree.cpp)| 
+|[1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)| [code](/source/_1470_Shuffle_the_array.cpp)| 
 
 
 ## My Leetcode [Account](https://leetcode.com/Mohamed_AboElNasr/)
