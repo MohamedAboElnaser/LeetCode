@@ -72,6 +72,7 @@
 |[896. Monotonic Array](https://leetcode.com/problems/monotonic-array/)| [code](/source/_896_Monotonic_array.cpp)|
 |[989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)| [code](/source/_989_Add_To_Array_form_of_integer.cpp)|
 |[958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)| [code](/source/_958_Check%20Completeness%20of%20a%20Binary%20Tree.cpp)|
+|[1367. Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/)| [code](/source/_1367_Linked%20List%20in%20Binary%20Tree.cpp)|
 
 
 ## My Leetcode [Account](https://leetcode.com/Mohamed_AboElNasr/)
