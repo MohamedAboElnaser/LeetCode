@@ -76,6 +76,7 @@
 |[90. Valid Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)| [code](/source/_90_valid_Binary_Search_Tree.cpp)|
 |[783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)| [code](/source/_783_%20Minimum%20Distance%20Between%20BST%20Nodes.cpp)|
 |[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| [code](/source/_226_.%20Invert%20Binary%20Tree.cpp)|
+|[58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)| [code](/source/_58_%20Length%20of%20Last%20Word.cpp)|
 
 
 ## My Leetcode [Account](https://leetcode.com/Mohamed_AboElNasr/)
