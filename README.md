@@ -79,6 +79,7 @@
 |[58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)| [code](/source/_58_%20Length%20of%20Last%20Word.cpp)|
 |[48. Rotate Image](https://leetcode.com/problems/rotate-image/)| [code](/source/_48_Rotate%20Image.cpp)|
 |[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [code](/source/_35_Search%20Insert%20Position.cpp)|
+|[540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)| [code](/source/_540_Single%20Element%20in%20a%20Sorted%20Array.cpp)|
 
 
 ## My Leetcode [Account](https://leetcode.com/Mohamed_AboElNasr/)
