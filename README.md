@@ -80,6 +80,7 @@
 |[48. Rotate Image](https://leetcode.com/problems/rotate-image/)| [code](/source/_48_Rotate%20Image.cpp)|
 |[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [code](/source/_35_Search%20Insert%20Position.cpp)|
 |[540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)| [code](/source/_540_Single%20Element%20in%20a%20Sorted%20Array.cpp)|
+|[1011. Capacity To Ship Packages Within D Days][(https://leetcode.com/problems/single-element-in-a-sorted-array/](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/))| [code](/source/_1011_Capacity%20To%20Ship%20Packages%20Within%20D%20Days.cpp)|
 
 
 ## My Leetcode [Account](https://leetcode.com/Mohamed_AboElNasr/)
