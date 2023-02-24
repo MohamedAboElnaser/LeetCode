@@ -83,6 +83,7 @@
 |[1011. Capacity To Ship Packages Within D Days][(https://leetcode.com/problems/single-element-in-a-sorted-array/](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/))| [code](/source/_1011_Capacity%20To%20Ship%20Packages%20Within%20D%20Days.cpp)|
 |[67. Add Binary][(https://leetcode.com/problems/add-binary/))| [code](/source/_67_Add%20Binary.cpp)|
 |[502. IPO][(https://leetcode.com/problems/ipo/))| [code](/source/_502_IPO.cpp)|
+|[1675. Minimize Deviation in Array][(https://leetcode.com/problems/minimize-deviation-in-array/))| [code](/source/_1675_Minimize%20Deviation%20in%20Array.cpp)|
 
 
 ## My Leetcode [Account](https://leetcode.com/Mohamed_AboElNasr/)
