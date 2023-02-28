@@ -10,7 +10,6 @@
 |[369.Valid Perfect Square](https://leetcode.com/problems/valid-perfect-squar/)| [code](/source/_367_Valid_perfect_squar.cpp)|
 |[735.Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)| [code](/source/_735_asteroid_collision.cpp_)|
 |[1047.Remove All Adjacent](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)| [code](/source/_1047_remove_all_adjacent_duplicates_in_string.cpp)|
-|[415.Add Strings](https://leetcode.com/problems/add-strings/)| [code](/source/add_strings.cpp)|
 |[121.Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [code](/source/best_time_to_buy_and_sell_stock.cpp)|
 |[704.Binary Search](https://leetcode.com/problems/binary-search/)| [code](/source/BinarySearch.cpp)|
 |[575.Distribute-candies](https://leetcode.com/problems/distribute-candies/)| [code](/source/distribute_candies.cpp)|
@@ -87,6 +86,7 @@
 |[438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)| [code](/source/_438_Find%20All%20Anagrams%20in%20a%20String.cpp)|
 |[72. Edit Distance](https://leetcode.com/problems/edit-distance/)| [code](/source/_72_Edit%20Distance.cpp)|
 |[445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[code](/source/_445_Add%20Two%20Numbers%20II.cpp)|
+|[415.Add Strings](https://leetcode.com/problems/add-strings/)| [code](/source/add_strings.cpp)|
 ## My Leetcode [Account](https://leetcode.com/Mohamed_AboElNasr/)
  
 
