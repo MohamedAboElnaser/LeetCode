@@ -88,6 +88,7 @@
 |[445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[code](/source/_445_Add%20Two%20Numbers%20II.cpp)|
 |[415.Add Strings](https://leetcode.com/problems/add-strings/)| [code](/source/add_strings.cpp)|
 |[860. Lemonade Change](https://leetcode.com/problems/lemonade-change/)| [code](/source/_860_Lemonade%20Change.cpp)|
+|[341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)| [code](/source/_341_Flatten%20Nested%20List%20Iterator.cpp)|
 
 ## My Leetcode [Account](https://leetcode.com/Mohamed_AboElNasr/)
  
