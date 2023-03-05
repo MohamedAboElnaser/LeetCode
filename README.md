@@ -92,6 +92,7 @@
 |[28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)| [code](/source/_28_Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.cpp)|
 |[729. My Calendar I](https://leetcode.com/problems/my-calendar-i/)| [code](/source/_729_My%20Calendar%20I.cpp)|
 |[155. Min Stack](https://leetcode.com/problems/min-stack/)| [code](/source/_155_Min%20Stack.cpp)|
+|[1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)| [code](/source/_1523_Count%20Odd%20Numbers%20in%20an%20Interval%20Range.cpp)|
 
 ## My Leetcode [Account](https://leetcode.com/Mohamed_AboElNasr/)
  
