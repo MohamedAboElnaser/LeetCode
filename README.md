@@ -94,6 +94,7 @@
 |[155. Min Stack](https://leetcode.com/problems/min-stack/)| [code](/source/_155_Min%20Stack.cpp)|
 |[1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)| [code](/source/_1523_Count%20Odd%20Numbers%20in%20an%20Interval%20Range.cpp)|
 |[1491. Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)| [code](/source/_1491_Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.cpp)|
+|[191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [code](/source/_191_Number%20of%201%20Bits.cpp)|
 
 ## My Leetcode [Account](https://leetcode.com/Mohamed_AboElNasr/)
  
