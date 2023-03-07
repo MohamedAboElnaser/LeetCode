@@ -96,6 +96,7 @@
 |[1491. Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)| [code](/source/_1491_Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.cpp)|
 |[191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [code](/source/_191_Number%20of%201%20Bits.cpp)|
 |[1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)| [code](/source/_1281_Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.cpp)|
+|[976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)| [code](/source/_976_Largest%20Perimeter%20Triangle.cpp)|
 
 ## My Leetcode [Account](https://leetcode.com/Mohamed_AboElNasr/)
  
