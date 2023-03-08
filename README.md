@@ -98,6 +98,7 @@
 |[1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)| [code](/source/_1281_Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.cpp)|
 |[976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)| [code](/source/_976_Largest%20Perimeter%20Triangle.cpp)|
 |[1779. Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)| [code](/source/_1779_Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate.cpp)|
+|[1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)| [code](/source/_1822_Sign%20of%20the%20Product%20of%20an%20Array.cpp)|
 
 ## My Leetcode [Account](https://leetcode.com/Mohamed_AboElNasr/)
  
