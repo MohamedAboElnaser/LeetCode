@@ -102,6 +102,7 @@
 |[502. Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)| [code](/source/_502_Can%20Make%20Arithmetic%20Progression%20From%20Sequence.cpp)|
 |[1790. Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/)| [code](/source/_1790_Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal.cpp)|
 |[589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)| [code](/source/_589_N-ary%20Tree%20Preorder%20Traversal.cpp)|
+|[496. Next Greater Element I](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)| [code](/source/_496_Next%20Greater%20ElementI.cpp)|
 
 
  
