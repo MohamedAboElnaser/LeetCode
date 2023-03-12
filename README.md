@@ -106,6 +106,7 @@
 |[1588. Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)| [code](/source/_1588_Sum%20of%20All%20Odd%20Length%20Subarrays.cpp)|
 |[1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)| [code](/source/_1572_Matrix%20Diagonal%20Sum.cpp)|
 |[566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)| [code](/source/_566_Reshape%20the%20Matrix.cpp)|
+|[1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)| [code](/source/_1678_Goal%20Parser%20Interpretation.cpp)|
 
 
  
