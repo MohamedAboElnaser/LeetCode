@@ -111,6 +111,7 @@
 |[709. To Lower Case](https://leetcode.com/problems/to-lower-case/)| [code](/source/_709_To%20Lower%20Case.cpp)|
 |[1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)| [code](/source/_709_To%20Lower%20Case.cpp)|
 |[404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)| [code](/source/_404_Sum%20of%20Left%20Leaves.cpp)|
+|[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [code](/source/_242_Valid%20Anagram.cpp)|
 
 
  
