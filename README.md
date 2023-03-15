@@ -112,6 +112,7 @@
 |[1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)| [code](/source/_709_To%20Lower%20Case.cpp)|
 |[404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)| [code](/source/_404_Sum%20of%20Left%20Leaves.cpp)|
 |[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [code](/source/_242_Valid%20Anagram.cpp)|
+|[1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)| [code](/source/_1356_Sort%20Integers%20by%20The%20Number%20of%201%20Bits.cpp)|
 
 
  
