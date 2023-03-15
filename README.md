@@ -114,6 +114,7 @@
 |[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [code](/source/_242_Valid%20Anagram.cpp)|
 |[1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)| [code](/source/_1356_Sort%20Integers%20by%20The%20Number%20of%201%20Bits.cpp)|
 |[232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)| [code](/source/_232_Implement%20Queue%20using%20Stacks.cpp)|
+|[953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)| [code](/source/_953_Verifying%20an%20Alien%20Dictionary.cpp)|
 
 
  
