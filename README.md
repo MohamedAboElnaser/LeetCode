@@ -117,6 +117,7 @@
 |[953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)| [code](/source/_953_Verifying%20an%20Alien%20Dictionary.cpp)|
 |[1603. Design Parking System](https://leetcode.com/problems/design-parking-system/)| [code](/source/_1603_Design%20Parking%20System.cpp)|
 |[303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)| [code](/source/_303_Range%20Sum%20Query%20-%20Immutable.cpp)|
+|[374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)| [code](/source/_374_Guess%20Number%20Higher%20or%20Lower.cpp)|
 
 
  
