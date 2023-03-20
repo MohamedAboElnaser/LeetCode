@@ -120,6 +120,7 @@
 |[374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)| [code](/source/_374_Guess%20Number%20Higher%20or%20Lower.cpp)|
 |[852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array)| [code](/source/_852_Peak%20Index%20in%20a%20Mountain%20Array.cpp)|
 |[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [code](/source/_69_Sqrt(x).cpp)|
+|[744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)| [code](/source/_744_Find%20Smallest%20Letter%20Greater%20Than%20Target.cpp)|
 
 
  
