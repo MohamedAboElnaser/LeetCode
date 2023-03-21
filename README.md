@@ -121,6 +121,7 @@
 |[852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array)| [code](/source/_852_Peak%20Index%20in%20a%20Mountain%20Array.cpp)|
 |[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [code](/source/_69_Sqrt(x).cpp)|
 |[744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)| [code](/source/_744_Find%20Smallest%20Letter%20Greater%20Than%20Target.cpp)|
+|[278. First Bad Version](https://leetcode.com/problems/first-bad-version/)| [code](/source/_278_First%20Bad%20Version.cpp)|
 
 
  
