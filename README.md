@@ -123,6 +123,7 @@
 |[744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)| [code](/source/_744_Find%20Smallest%20Letter%20Greater%20Than%20Target.cpp)|
 |[278. First Bad Version](https://leetcode.com/problems/first-bad-version/)| [code](/source/_278_First%20Bad%20Version.cpp)|
 |[1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)| [code](/source/_1539_Kth%20Missing%20Positive%20Number.cpp)|
+|[167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [code](/source/_167_Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.cpp)|
 
 
  
