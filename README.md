@@ -126,6 +126,7 @@
 |[167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [code](/source/_167_Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.cpp)|
 |[1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)| [code](/source/_1351_Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.cpp)|
 |[1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)| [code](/source/_1337_The%20K%20Weakest%20Rows%20in%20a%20Matrix.cpp)|
+|[633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)| [code](/source/_633_Sum%20of%20Square%20Numbers.cpp)|
 
 
  
