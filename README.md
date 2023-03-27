@@ -129,6 +129,7 @@
 |[633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)| [code](/source/_633_Sum%20of%20Square%20Numbers.cpp)|
 |[1385. Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)| [code](/source/_1385_Find%20the%20Distance%20Value%20Between%20Two%20Arrays.cpp)|
 |[1855. Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/)| [code](/source/_1855_Maximum%20Distance%20Between%20a%20Pair%20of%20Values.cpp)|
+|[33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [code](/source/_33_Search%20in%20Rotated%20Sorted%20Array.cpp)|
 
 
  
