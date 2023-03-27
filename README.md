@@ -128,6 +128,7 @@
 |[1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)| [code](/source/_1337_The%20K%20Weakest%20Rows%20in%20a%20Matrix.cpp)|
 |[633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)| [code](/source/_633_Sum%20of%20Square%20Numbers.cpp)|
 |[1385. Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)| [code](/source/_1385_Find%20the%20Distance%20Value%20Between%20Two%20Arrays.cpp)|
+|[1855. Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/)| [code](/source/_1855_Maximum%20Distance%20Between%20a%20Pair%20of%20Values.cpp)|
 
 
  
