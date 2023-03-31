@@ -133,6 +133,7 @@
 |[153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| [code](/source/_153_Find%20Minimum%20in%20Rotated%20Sorted%20Array.cpp)|
 |[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [code](/source/_88_Merge%20Sorted%20Array.cpp)|
 |[112. Path Sum](https://leetcode.com/problems/path-sum/)| [code](/source/_112_Path%20Sum.cpp)|
+|[700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)| [code](/source/_700_Search%20in%20a%20Binary%20Search%20Tree.cpp)|
 
 
  
