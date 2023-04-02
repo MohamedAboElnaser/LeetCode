@@ -135,6 +135,7 @@
 |[112. Path Sum](https://leetcode.com/problems/path-sum/)| [code](/source/_112_Path%20Sum.cpp)|
 |[700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)| [code](/source/_700_Search%20in%20a%20Binary%20Search%20Tree.cpp)|
 |[234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| [code](/source/_234_Palindrome%20Linked%20List.cpp)|
+|[2133. Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/)| [code](/source/_2133_Check%20if%20Every%20Row%20and%20Column%20Contains%20All%20Numbers.cpp)|
 
 
  
