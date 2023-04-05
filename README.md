@@ -139,6 +139,7 @@
 |[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| [code](/source/_36_Valid%20Sudoku.cpp)|
 |[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [code](/source/_141_Linked%20List%20Cycle.cpp)|
 |[203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)| [code](/source/_203_Remove%20Linked%20List%20Elements.cpp)|
+|[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [code](/source/_83_Remove%20Duplicates%20from%20Sorted%20List.cpp)|
 
 
  
