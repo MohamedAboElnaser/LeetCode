@@ -145,6 +145,7 @@
 |[235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)| [code](/source/_235_Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.cpp)|
 |[6361. Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/)| [code](/source/_6361_Prime%20In%20Diagonal.cpp)|
 |[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [code](/source/_2_Add%20Two%20Numbers.cpp)|
+|[2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)| [code](/source/_2390_Removing%20Stars%20From%20a%20String.cpp)|
 
 
  
