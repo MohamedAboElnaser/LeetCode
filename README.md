@@ -148,6 +148,7 @@
 |[2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)| [code](/source/_2390_Removing%20Stars%20From%20a%20String.cpp)|
 |[71. Simplify Path](https://leetcode.com/problems/simplify-path/)| [code](/source/_71_https://leetcode.com/problems/simplify-path/)|
 |[946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)| [code](/source/_946_Validate%20Stack%20Sequences.cpp)|
+|[43. Multiply Strings](https://leetcode.com/problems/multiply-strings/)| [code](/source/_43_Multiply%20Strings.cpp)|
 
 
  
