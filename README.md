@@ -153,6 +153,7 @@
 |[739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)| [code](/source/_783_%20Minimum%20Distance%20Between%20BST%20Nodes.cpp)|
 |[1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)| [code](/source/_1431_Kids%20With%20the%20Greatest%20Number%20of%20Candies.cpp)|
 |[54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)| [code](/source/_54_Spiral%20Matrix.cpp)|
+|[973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)| [code](/source/_973_K%20Closest%20Points%20to%20Origin.cpp)|
 
 
 
