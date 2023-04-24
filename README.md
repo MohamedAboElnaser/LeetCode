@@ -158,6 +158,7 @@
 |[429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)| [code](/source/_429_N-ary%20Tree%20Level%20Order%20Traversal.cpp)|
 |[503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)| [code](/source/_503_Next%20Greater%20Element%20II.cpp)|
 |[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)| [code](/source/_49_Group%20Anagrams.cpp)|
+|[1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)| [code](/source/_1046_Last%20Stone%20Weight.cpp)|
 
 
 
