@@ -160,7 +160,8 @@
 |[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)| [code](/source/_49_Group%20Anagrams.cpp)|
 |[1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)| [code](/source/_1046_Last%20Stone%20Weight.cpp)|
 |[143. Reorder List](https://leetcode.com/problems/reorder-list/)| [code](/source/_143_Reorder%20List.cpp)|
-|[258. Add Digits](https://leetcode.com/problems/reorder-list/)| [code](/source/_258_Add%20Digits.cpp)|
+|[258. Add Digits](https://leetcode.com/problems/add-digits/)| [code](/source/_258_Add%20Digits.cpp)|
+|[1845. Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/)| [code](/source/_1845_Seat%20Reservation%20Manager.cpp)|
 
 
 
