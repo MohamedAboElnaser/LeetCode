@@ -31,6 +31,7 @@
 |[258. Add Digits](https://leetcode.com/problems/add-digits/)| [code](/source/_258_Add%20Digits.cpp)|
 |[1845. Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/)| [code](/source/_1845_Seat%20Reservation%20Manager.cpp)|
 |[707. Design Linked List](https://leetcode.com/problems/design-linked-list/)| [code](/source/_707_Design%20Linked%20List.cpp)|
+|[622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)| [code](/source/_622_Design%20Circular%20Queue.cpp)|
 
 
 
