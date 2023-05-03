@@ -32,6 +32,7 @@
 |[1845. Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/)| [code](/source/_1845_Seat%20Reservation%20Manager.cpp)|
 |[707. Design Linked List](https://leetcode.com/problems/design-linked-list/)| [code](/source/_707_Design%20Linked%20List.cpp)|
 |[622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)| [code](/source/_622_Design%20Circular%20Queue.cpp)|
+|[2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)| [code](/source/_2215_Find%20the%20Difference%20of%20Two%20Arrays.js)|
 
 
 
