@@ -33,6 +33,7 @@
 |[707. Design Linked List](https://leetcode.com/problems/design-linked-list/)| [code](/source/_707_Design%20Linked%20List.cpp)|
 |[622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)| [code](/source/_622_Design%20Circular%20Queue.cpp)|
 |[2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)| [code](/source/_2215_Find%20the%20Difference%20of%20Two%20Arrays.js)|
+|[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)| [code](/source/_26_Remove%20Duplicates%20from%20Sorted%20Array.js)|
 
 
 
